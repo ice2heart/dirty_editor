@@ -1,0 +1,17 @@
+{
+  "name": "question",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^1.4.10"
+  },
+  "dependencies": {
+    "mysql": "^2.12.0"
+  }
+}
