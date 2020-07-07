@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^1.4.10"
+    "electron": "^9.1.0"
   },
   "dependencies": {
     "mysql": "^2.12.0"
